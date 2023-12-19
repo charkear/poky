@@ -1,0 +1,3 @@
+[submodule "meta-proliant"]
+	path = meta-proliant
+	url = git@github.hpe.com:charles-kearney/meta-proliant.git
